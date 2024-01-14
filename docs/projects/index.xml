@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Averi Giudicessi</title>
+<link>https://averi-giudicessi.com/projects/index.html</link>
+<atom:link href="https://averi-giudicessi.com/projects/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Sun, 14 Jan 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introductions + Hello</title>
+  <dc:creator>Averi Giudicessi</dc:creator>
+  <link>https://averi-giudicessi.com/projects/posts/2024-01-13/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hello! My name is Averi Giudicessi, I am a clinical psychology doctoral student living in the Boston area with my partner and dog Robbie (pictured below). Follow along to see what projects I am working on in my doctoral program and beyond.</p>
+<div class="quarto-figure quarto-figure-center page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="https://averi-giudicessi.com/projects/posts/2024-01-13/robbie-san-diego.jpeg" class="preview-image img-fluid figure-img" alt="A brown and white dog standing outside behind a green plant in the sun"></p>
+<figcaption class="figure-caption margin-caption">Robbie in San Diego</figcaption>
+</figure>
+</div>
+<p>I am currently in a busy second year of my doctoral program and hope to write more about my research and upcoming projects here more often. For now I will leave you with this incredible picture of my really cute dog enjoying the San Diego sun.</p>
+
+
+
+ ]]></description>
+  <category>introduction</category>
+  <guid>https://averi-giudicessi.com/projects/posts/2024-01-13/index.html</guid>
+  <pubDate>Sun, 14 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
