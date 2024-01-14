@@ -1,0 +1,40 @@
+---
+title: "About Me"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
+
+::: {#about-block}
+
+
+Professional
+-------------------------------------------
+
+I am a second-year doctoral student in Clinical Psychology at Boston University, where my research delves into understanding the earliest changes in the brain associated with preclinical Alzheimer's disease and vascular dementia. Additionally, my focus extends to understanding sex differences in neurodegenerative diseases.
+
+Before starting my doctorate, I earned a Master's degree in Neuropsychology from Benemerita Universidad Autonoma de Puebla in Puebla, México, and undergraduate at Fordham University.
+
+
+
+R-Ladies 
+-------------------------------------------
+
+I am part of the R-Ladies Global Team. [R-Ladies](https://rladies.org/) promotes gender diversity in the R community, I highly recommend you join our [community slack](https://rladies-community-slack.herokuapp.com/)! I also founded R-Ladies Puebla while I was completing my master's program, you can find all of our great content, [here](https://www.youtube.com/@RLadiesPuebla/videos). 
+
+
+
+Contact
+-------------------------------------------
+
+Please feel free to [contact me](mailto:mail.averigiudicessi@gmail.com) if you have any questions or would like to discuss potential projects.
+
+
+This personal website was developed using [Quarto](https://quarto.org/).
+
+
+
+:::

@@ -1,0 +1,74 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Averi Giudicessi"     
+  site-url: "https://averi-giudicessi.com"
+  
+  # Your name
+  
+
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+  
+    
+    # your sub-pages
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      
+    
+    # your social media handles
+    right:
+      - icon: github
+        href: https://github.com/averigg
+      - icon: mastodon
+        href: https://mastodon.social/@averi_g
+      - icon: linkedin
+        href: https://www.linkedin.com/in/averi-giudicessi-210573200/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.averigiudicessi@gmail.com"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+ 
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - minty
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
