@@ -9,7 +9,7 @@ about:
       href: https://mastodon.social/@averi_g
     - icon: github
       text: Github
-      href: https://github.com/averigg
+      href: https://github.com/averi-giudicessi
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/averi-giudicessi-210573200/
