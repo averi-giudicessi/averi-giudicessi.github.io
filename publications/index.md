@@ -10,6 +10,15 @@ keep-md: true
 
 ## Published
 
+### 2024{#published-2024}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Averi Giudicessi</strong>, Paula Aduen, Joshua T. Fox-Fuller, Jario E. Martinez, Lyda Arévalo González, Clara Vila-Castelar, Celina Pluim-McDowell, Alice Cronin-Golomb, Francisco Lopera, and Yakeel T. Quiroz. (2024) "The MAPP Room Memory Test: Examining contextual memory using a novel computerized test in cognitively-unimpaired individuals with autosomal dominant Alzheimer’s disease."<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.14283/jpad.2024.7" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a></li></ul>
+```
+
 ### 2023{#published-2023}
 
 ```{=html}
@@ -95,8 +104,7 @@ keep-md: true
 ### 2024{#not-published-2024}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Averi Giudicessi</strong>, Celina Pluim-McDowell, Jairo E. Martinez, Clara Vila-Castelar, Daniel Norton, Edmarie Guzman-Velez, Alice Cronin-Golomb, Celina Pluim-McDowell, and Yakeel T. Quiroz. (2024) "Systematic Review: A comprehensive review of cognitive outcomes in autosomal-dominant AD: Findings from a Colombian Kindred with Presenillin-1 E280A carriers."<br></li>
-<li class='list-group-item'><strong>Averi Giudicessi</strong>, Paula Aduen, Joshua T. Fox-Fuller, Jario E. Martinez, Lyda Arévalo González, Clara Vila-Castelar, Celina Pluim-McDowell, Alice Cronin-Golomb, Francisco Lopera, and Yakeel T. Quiroz. (2024) "The {MAPP} Room Memory Test: Examining contextual memory using a novel computerized test in cognitively-unimpaired individuals with autosomal dominant Alzheimer’s disease.."<br></li></ul>
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Averi Giudicessi</strong>, Celina Pluim-McDowell, Jairo E. Martinez, Clara Vila-Castelar, Daniel Norton, Edmarie Guzman-Velez, Alice Cronin-Golomb, Celina Pluim-McDowell, and Yakeel T. Quiroz. (2024) "Systematic Review: A comprehensive review of cognitive outcomes in autosomal-dominant AD: Findings from a Colombian Kindred with Presenillin-1 E280A carriers."<br></li></ul>
 ```
 
 ### 2021{#not-published-2021}

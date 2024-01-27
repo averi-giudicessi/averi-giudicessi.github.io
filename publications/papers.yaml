@@ -246,7 +246,7 @@ giudicessi_systematic_2023:
   published_url: 
   
 giudicessi_mapp_memory_2023:
-  title: "The {MAPP} Room Memory Test: Examining contextual memory using a novel computerized test in cognitively-unimpaired individuals with autosomal dominant Alzheimer’s disease."  
+  title: "The MAPP Room Memory Test: Examining contextual memory using a novel computerized test in cognitively-unimpaired individuals with autosomal dominant Alzheimer’s disease."  
   authors: 
      - me
      - Paula Aduen
@@ -259,8 +259,8 @@ giudicessi_mapp_memory_2023:
      - Francisco Lopera
      - Yakeel T. Quiroz
   year: 2024
-  venu: "Journal of Prevention of Alzheimer's Disease"
   preprint: 
-  published_url: 
+  venu: "Journal of Prevention of Alzheimer's Disease"
+  published_url: https://doi.org/10.14283/jpad.2024.7 
 
 
