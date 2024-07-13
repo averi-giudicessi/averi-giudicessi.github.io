@@ -13,18 +13,14 @@ format:
 
 Professional
 -------------------------------------------
-
-I am a second-year doctoral student in Clinical Psychology at Boston University, where my research delves into understanding the earliest changes in the brain associated with preclinical Alzheimer's disease and vascular dementia. Additionally, my focus extends to understanding sex differences in neurodegenerative diseases.
-
-Before starting my doctorate, I earned a Master's degree in Neuropsychology from Benemerita Universidad Autonoma de Puebla in Puebla, México, and undergraduate at Fordham University.
+I am a third-year doctoral student in the clinical psychology program at Boston University (BU) co-mentored by Dr. Yakeel Quiroz and Dr. Alice Cronin-Golomb. I completed her bachelor’s degree at Fordham University with a major in Psychology and an MS in Neuropsychology from Benemerita Universidad Autónoma de Puebla. Prior to becoming a student at BU, I worked as a Research Assistant for University of California San Diego. Broadly, her research interests include sex differences in aging populations and how reproductive factors unique to women may be related to higher rates of AD and dementia in women. I was awarded an NINDS F31 grant in 2024 to examine the sex-specific effects on white matter integrity and brain function in autosomal dominant Alzheimer's disease and vascular dementia. 
 
 
 
 R-Ladies 
 -------------------------------------------
 
-I am part of the R-Ladies Global Team. [R-Ladies](https://rladies.org/) promotes gender diversity in the R community, I highly recommend you join our [community slack](https://rladies-community-slack.herokuapp.com/)! I also founded R-Ladies Puebla while I was completing my master's program, you can find all of our great content, [here](https://www.youtube.com/@RLadiesPuebla/videos). 
-
+I am part of the R-Ladies Global Team. [R-Ladies](https://rladies.org/) promotes gender diversity in the R community, I highly recommend you join our [community slack](https://rladies-community-slack.herokuapp.com/)! I am also a co-organizer of R-Ladies Puebla, you can find all of our great content, [here](https://www.youtube.com/@RLadiesPuebla/videos). 
 
 
 Contact

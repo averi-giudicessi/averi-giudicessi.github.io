@@ -26,7 +26,7 @@ about:
 
 My name is Averi Giudicessi and I'm a PhD Student in Clinical Psychology at [Boston University](https://www.bu.edu/) 
 
-🧠 My research interests include understanding sex differences in older adults and how reproductive factors unique to women may be related to higher rates of AD and dementia in women. I use neuroimaging, and cognitive data, and to try and understand some of these questions.
+🧠 My research interests include understanding sex differences in older adults and how reproductive factors unique to women may be related to higher rates of Alzheimer's disease and dementia in women. I use structural and functional neuroimaging, and cognitive data to try and understand some of these questions.
 
 💜💻✨  I'm part of [R-Ladies](https://rladies.org/) global team.
 
